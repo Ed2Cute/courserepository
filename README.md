@@ -1,6 +1,8 @@
 # courserepository
 CIS18A
 Course Project 1
+01/26/2019
+ver 1.0
 
 The project should give you a pseudo ordering process throught your console.
 This project should end up saving a lot of time ordering product that is needed for a medical marijuana dispensary (though not limited to that) and maybe even more, such as automating it.
